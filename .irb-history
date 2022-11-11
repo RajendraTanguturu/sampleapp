@@ -1,0 +1,34 @@
+exit
+Todo.all
+lunch = Todo.lunch(name: "lunch", description: "I am going to cook lunch")
+lunch = Todo.new(name: "lunch", description: "I am going to cook lunch")
+exit
+Sample.all
+lunch = Sample.new(name: "lunch", description: "I am going to cook lunch")
+Sample.all
+lunch.save
+Sample.all
+dinner = Sample.new(name: "dinner", description: "I am not having dinner today")
+dinner.save
+breakfast = Sample.new(name: "breakfast", description: "I am having fruits today in my breakfast")
+breakfast.save
+brunch = Sample.new(name: "brunch", description: "I am planning for a brunch tmrw")
+brunch.save
+Sample.all
+sample1= Sample.find2
+sample1= Sample.find 2
+sample1.description="I am having dinner today"
+Sample.all
+sample1.save
+Sample.all
+sample3 = Sample.find last
+sample3 = Sample.last
+sample3.destroy
+reload:
+reload:
+sample4= Sample.new
+sample4 = Sample.new
+sample4.save
+reload:
+exit
+exit

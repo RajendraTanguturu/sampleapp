@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" open-window-count="0" score="1" last-seen="1667911132"/>
+    <application id="nautilus-autorun-software.desktop" open-window-count="0" score="0" last-seen="1667889782"/>
+    <application id="yelp.desktop" open-window-count="0" score="0" last-seen="1667978425"/>
+    <application id="firefox.desktop" open-window-count="1" score="7223" last-seen="1668143606"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1667889766"/>
+    <application id="gnome-user-accounts-panel.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="gnome-mahjongg.desktop" open-window-count="0" score="0" last-seen="1667976817"/>
+    <application id="sublime_text.desktop" open-window-count="1" score="10653" last-seen="1668146170"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="18598" last-seen="1668143375"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="1" last-seen="1667889696"/>
+  </context>
+</application-state>

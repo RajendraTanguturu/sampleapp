@@ -1,0 +1,710 @@
+{
+	"folder_history":
+	[
+		"/home/test/basicproject"
+	],
+	"last_version": 4126,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"next_update_check": 1667991531,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 586.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/test/basicproject/Gemfile",
+					"settings":
+					{
+						"buffer_size": 1742,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							11,
+							"left_delete",
+							null,
+							"CwAAAMIAAAAAAAAAwgAAAAAAAAABAAAAJ8EAAAAAAAAAwQAAAAAAAAABAAAAM8AAAAAAAAAAwAAAAAAAAAABAAAAZb8AAAAAAAAAvwAAAAAAAAABAAAAdL4AAAAAAAAAvgAAAAAAAAABAAAAab0AAAAAAAAAvQAAAAAAAAABAAAAbLwAAAAAAAAAvAAAAAAAAAABAAAAcbsAAAAAAAAAuwAAAAAAAAABAAAAc7oAAAAAAAAAugAAAAAAAAABAAAAJ7kAAAAAAAAAuQAAAAAAAAABAAAAILgAAAAAAAAAuAAAAAAAAAABAAAAbQ",
+							"AQAAAAAAAAABAAAAwwAAAAAAAADDAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							2,
+							"left_delete",
+							null,
+							"AgAAALcAAAAAAAAAtwAAAAAAAAABAAAAZbYAAAAAAAAAtgAAAAAAAAABAAAAZw",
+							"AQAAAAAAAAABAAAAuAAAAAAAAAC4AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"paste",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"x": 379.731811523,
+									"y": 143.738601685
+								}
+							},
+							"AQAAALYAAAAAAAAAtwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtgAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"left_delete",
+							null,
+							"AQAAALYAAAAAAAAAtgAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAtwAAAAAAAAC3AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							1,
+							"paste",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"x": 345.736572266,
+									"y": 145.742477417
+								}
+							},
+							"AQAAALYAAAAAAAAA0QAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtgAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"left_delete",
+							null,
+							"AQAAANAAAAAAAAAA0AAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAA0QAAAAAAAADRAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"contents": "# README\n\nThis README would normally document whatever steps are necessary to get the\napplication up and running.\n\nThings you may want to cover:\n\n* Ruby version\n\n* System dependencies\n\n* Configuration\n\n* Database creation\n\n* Database initialization\n\n* How to run the test suite\n\n* Services (job queues, cache servers, search engines, etc.)\n\n* Deployment instructions\n\n* ...\n\nStart the server\n",
+					"file": "/home/test/basicproject/README.md",
+					"file_size": 374,
+					"file_write_time": 133124475190525856,
+					"settings":
+					{
+						"buffer_size": 392,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "\nStar"
+							},
+							"BQAAAHYBAAAAAAAAdwEAAAAAAAAAAAAAdwEAAAAAAAB4AQAAAAAAAAAAAAB4AQAAAAAAAHkBAAAAAAAAAAAAAHkBAAAAAAAAegEAAAAAAAAAAAAAegEAAAAAAAB7AQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdgEAAAAAAAB2AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "t"
+							},
+							"AQAAAHsBAAAAAAAAfAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAewEAAAAAAAB7AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": " the"
+							},
+							"BAAAAHwBAAAAAAAAfQEAAAAAAAAAAAAAfQEAAAAAAAB+AQAAAAAAAAAAAAB+AQAAAAAAAH8BAAAAAAAAAAAAAH8BAAAAAAAAgAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAfAEAAAAAAAB8AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": " server"
+							},
+							"BwAAAIABAAAAAAAAgQEAAAAAAAAAAAAAgQEAAAAAAACCAQAAAAAAAAAAAACCAQAAAAAAAIMBAAAAAAAAAAAAAIMBAAAAAAAAhAEAAAAAAAAAAAAAhAEAAAAAAACFAQAAAAAAAAAAAACFAQAAAAAAAIYBAAAAAAAAAAAAAIYBAAAAAAAAhwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAgAEAAAAAAACAAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAIcBAAAAAAAAiAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAhwEAAAAAAACHAQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/test/basicproject",
+				"/home/test/basicproject/app",
+				"/home/test/basicproject/app/controllers",
+				"/home/test/basicproject/app/models",
+				"/home/test/basicproject/app/views",
+				"/home/test/basicproject/app/views/layouts"
+			],
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/test/basicproject"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/test/basicproject/Gemfile",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1742,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										208,
+										208
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/test/basicproject/README.md",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 392,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										392,
+										392
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 102.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,117,27,917,613,1366,655,0",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 281.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,67,27,867,613,1366,655,0",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

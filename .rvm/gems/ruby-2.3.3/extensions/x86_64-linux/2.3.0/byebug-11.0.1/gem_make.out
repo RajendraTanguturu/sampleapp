@@ -1,0 +1,19 @@
+current directory: /home/test/.rvm/gems/ruby-2.3.3/gems/byebug-11.0.1/ext/byebug
+/home/test/.rvm/rubies/ruby-2.3.3/bin/ruby -I /home/test/.rvm/rubies/ruby-2.3.3/lib/ruby/site_ruby/2.3.0 -r ./siteconf20221109-5156-1suay5l.rb extconf.rb
+creating Makefile
+
+current directory: /home/test/.rvm/gems/ruby-2.3.3/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/test/.rvm/gems/ruby-2.3.3/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling threads.c
+compiling byebug.c
+compiling context.c
+compiling breakpoint.c
+compiling locker.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/test/.rvm/gems/ruby-2.3.3/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 byebug.so ./.gem.20221109-5156-5hu77h/byebug

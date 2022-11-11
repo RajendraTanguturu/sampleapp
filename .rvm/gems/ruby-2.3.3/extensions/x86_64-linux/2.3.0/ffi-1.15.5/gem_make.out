@@ -1,0 +1,43 @@
+current directory: /home/test/.rvm/gems/ruby-2.3.3/gems/ffi-1.15.5/ext/ffi_c
+/home/test/.rvm/rubies/ruby-2.3.3/bin/ruby -I /home/test/.rvm/rubies/ruby-2.3.3/lib/ruby/site_ruby/2.3.0 -r ./siteconf20221109-5156-1et3hqm.rb extconf.rb
+checking for ffi_prep_closure_loc() in -lffi... yes
+checking for ffi_prep_cif_var()... yes
+checking for ffi_raw_call()... yes
+checking for ffi_prep_raw_closure()... yes
+checking for whether -pthread is accepted as LDFLAGS... yes
+creating extconf.h
+creating Makefile
+
+current directory: /home/test/.rvm/gems/ruby-2.3.3/gems/ffi-1.15.5/ext/ffi_c
+make "DESTDIR=" clean
+
+current directory: /home/test/.rvm/gems/ruby-2.3.3/gems/ffi-1.15.5/ext/ffi_c
+make "DESTDIR="
+compiling Variadic.c
+compiling Thread.c
+compiling FunctionInfo.c
+compiling Function.c
+compiling Buffer.c
+compiling Struct.c
+compiling Call.c
+compiling LongDouble.c
+compiling DynamicLibrary.c
+compiling MethodHandle.c
+compiling Platform.c
+compiling StructByValue.c
+compiling ClosurePool.c
+compiling ArrayType.c
+compiling MemoryPointer.c
+compiling Type.c
+compiling StructLayout.c
+compiling ffi.c
+compiling AbstractMemory.c
+compiling LastError.c
+compiling MappedType.c
+compiling Pointer.c
+compiling Types.c
+linking shared-object ffi_c.so
+
+current directory: /home/test/.rvm/gems/ruby-2.3.3/gems/ffi-1.15.5/ext/ffi_c
+make "DESTDIR=" install
+/usr/bin/install -m 0755 ffi_c.so ./.gem.20221109-5156-2dofv9
