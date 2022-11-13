@@ -31,7 +31,17 @@ class SamplesController < ApplicationController
 		else
 			render 'edit'
 		end
+	end
 
+	def index
+		@samples = Sample.all
+	end
+
+	def destroy
+		@sample = Sample.find(params[:id])
+		@sample.destroy
+		flash[:notice] = "Sample is deleted successfully"
+		redirect_to samples_path
 	end
 
 	private

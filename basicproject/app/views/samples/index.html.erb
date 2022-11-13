@@ -1,0 +1,21 @@
+<h1>Listing all samples</h1>
+
+<p>
+	<%= link_to "Create a Sample", new_sample_path %>
+</p>
+<table>
+	<tr>
+		<th>Name</th>
+		<th>Description</th>
+	</tr>
+	<% @samples.each do |sample| %>
+	<tr>
+		<td><%= sample.name %></td>
+		<td><%= sample.description %></td>
+		<td><%= link_to "Edit", edit_sample_path(sample) %></td>
+		<td><%= link_to "Show", sample_path(sample) %></td>
+		<td><%= link_to "Delete", sample_path(sample), method: :delete, data: {confirm: "Are you sure?"} %></td>
+	</tr>
+
+	<% end %>
+</table>
