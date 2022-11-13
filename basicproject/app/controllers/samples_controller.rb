@@ -19,6 +19,21 @@ class SamplesController < ApplicationController
 		@sample = Sample.find(params[:id])
 	end
 
+	def edit
+		@sample = Sample.find(params[:id])
+	end
+
+	def update
+		@sample = Sample.find(params[:id])
+		if @sample.update(sample_params)
+			flash[:notice] = "Sample was successfully updated"
+			redirect_to sample_path(@sample)
+		else
+			render 'edit'
+		end
+
+	end
+
 	private
 		def sample_params
 			params.require(:sample).permit(:name, :description)

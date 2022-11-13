@@ -600,3 +600,34 @@ X Protocol Version 11, Revision 0
 [ 42134.067] (II) event5  - VirtualBox USB Tablet: is tagged by udev as: Mouse
 [ 42134.067] (II) event5  - VirtualBox USB Tablet: device is a pointer
 [ 42734.298] (II) event5  - VirtualBox USB Tablet: Enabling spurious button debouncing, see https://wayland.freedesktop.org/libinput/doc/1.10.4/button_debouncing.html for details
+[ 52433.694] (II) config/udev: removing device VirtualBox USB Tablet
+[ 52433.694] (**) Option "fd" "49"
+[ 52433.694] (II) event5  - VirtualBox USB Tablet: device removed
+[ 52433.735] (II) UnloadModule: "libinput"
+[ 52433.736] (II) systemd-logind: releasing fd for 13:69
+[ 52433.736] (EE) systemd-logind: failed to release device: Device not taken
+[ 52434.397] (II) config/udev: Adding input device VirtualBox USB Tablet (/dev/input/mouse1)
+[ 52434.397] (II) No input driver specified, ignoring this device.
+[ 52434.397] (II) This device may have been added with another device file.
+[ 52434.399] (II) config/udev: Adding input device VirtualBox USB Tablet (/dev/input/js0)
+[ 52434.399] (II) No input driver specified, ignoring this device.
+[ 52434.399] (II) This device may have been added with another device file.
+[ 52434.464] (II) config/udev: Adding input device VirtualBox USB Tablet (/dev/input/event5)
+[ 52434.464] (**) VirtualBox USB Tablet: Applying InputClass "libinput pointer catchall"
+[ 52434.464] (II) Using input driver 'libinput' for 'VirtualBox USB Tablet'
+[ 52434.526] (II) systemd-logind: got fd for /dev/input/event5 13:69 fd 49 paused 0
+[ 52434.526] (**) VirtualBox USB Tablet: always reports core events
+[ 52434.526] (**) Option "Device" "/dev/input/event5"
+[ 52434.526] (**) Option "_source" "server/udev"
+[ 52434.527] (II) event5  - VirtualBox USB Tablet: is tagged by udev as: Mouse
+[ 52434.527] (II) event5  - VirtualBox USB Tablet: device is a pointer
+[ 52434.527] (II) event5  - VirtualBox USB Tablet: device removed
+[ 52434.527] (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:0c.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0004/input/input16/event5"
+[ 52434.527] (II) XINPUT: Adding extended input device "VirtualBox USB Tablet" (type: MOUSE, id 10)
+[ 52434.548] (**) Option "AccelerationScheme" "none"
+[ 52434.558] (**) VirtualBox USB Tablet: (accel) selected scheme none/0
+[ 52434.558] (**) VirtualBox USB Tablet: (accel) acceleration factor: 2.000
+[ 52434.558] (**) VirtualBox USB Tablet: (accel) acceleration threshold: 4
+[ 52434.559] (II) event5  - VirtualBox USB Tablet: is tagged by udev as: Mouse
+[ 52434.559] (II) event5  - VirtualBox USB Tablet: device is a pointer
+[ 53613.686] (II) event5  - VirtualBox USB Tablet: Enabling spurious button debouncing, see https://wayland.freedesktop.org/libinput/doc/1.10.4/button_debouncing.html for details

@@ -93,12 +93,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/test/basicproject/app/views/samples/show.html.erb" added="2022-11-11T04:56:10Z" modified="2022-11-11T04:56:10Z" visited="2022-11-11T04:56:10.579134Z">
+  <bookmark href="file:///home/test/basicproject/app/views/samples/show.html.erb" added="2022-11-11T04:56:10Z" modified="2022-11-11T04:56:10Z" visited="2022-11-11T04:56:10Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
           <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2022-11-11T04:56:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/test/basicproject/app/views/samples/edit.html.erb" added="2022-11-11T09:10:42Z" modified="2022-11-11T09:10:42Z" visited="2022-11-11T09:10:43.249387Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2022-11-11T09:10:42Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
